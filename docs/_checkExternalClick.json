@@ -1,0 +1,1 @@
+c({"name": "_checkExternalClick", "params": {"event": {"description": "", "type": "", "optional": false, "order": 0, "name": "event"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Close date picker if clicked elsewhere. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6312, "children": []})

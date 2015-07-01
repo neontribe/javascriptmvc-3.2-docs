@@ -1,0 +1,1 @@
+c({"name": "_findPos", "params": {"obj": {"description": "", "type": "", "optional": false, "order": 0, "name": "obj"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Find an object's position on the screen. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6258, "children": []})

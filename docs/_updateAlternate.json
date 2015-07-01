@@ -1,0 +1,1 @@
+c({"name": "_updateAlternate", "params": {"inst": {"description": "", "type": "", "optional": false, "order": 0, "name": "inst"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Update any alternate field to synchronise with the main field. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6417, "children": []})

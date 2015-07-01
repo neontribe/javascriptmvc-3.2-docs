@@ -1,0 +1,1 @@
+c({"name": "join", "params": {"url": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "url"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Joins url onto path</p>", "src": "./steal/rhino/file.js", "line": 78, "children": []})

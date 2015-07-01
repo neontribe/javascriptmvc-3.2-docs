@@ -1,0 +1,1 @@
+c({"name": "Jmvcdoc.Nav", "type": "class", "comment": "<p>listens for a history change, gets object it represents, and draws it ....</p>", "src": "./documentjs/jmvcdoc/nav/nav.js", "line": 7, "children": ["Jmvcdoc.Nav.static", "Jmvcdoc.Nav.prototype"]})

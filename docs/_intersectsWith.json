@@ -1,0 +1,1 @@
+c({"name": "_intersectsWith", "params": {"item": {"description": "", "type": "", "optional": false, "order": 0, "name": "item"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Be careful with the following core functions </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 3845, "children": []})

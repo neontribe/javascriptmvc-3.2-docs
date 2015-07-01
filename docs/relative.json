@@ -1,0 +1,1 @@
+c({"name": "relative", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Returns true if the file is relative</p>", "src": "./steal/rhino/file.js", "line": 123, "children": []})

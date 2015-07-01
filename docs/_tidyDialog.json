@@ -1,0 +1,1 @@
+c({"name": "_tidyDialog", "params": {"inst": {"description": "", "type": "", "optional": false, "order": 0, "name": "inst"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Tidy up after a dialog display. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6307, "children": []})

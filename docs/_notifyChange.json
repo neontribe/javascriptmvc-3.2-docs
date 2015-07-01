@@ -1,0 +1,1 @@
+c({"name": "_notifyChange", "params": {"inst": {"description": "", "type": "", "optional": false, "order": 0, "name": "inst"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Notify change of month/year. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 7178, "children": []})

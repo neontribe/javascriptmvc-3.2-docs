@@ -1,0 +1,1 @@
+c({"name": "_getFormatConfig", "params": {"inst": {"description": "", "type": "", "optional": false, "order": 0, "name": "inst"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Provide the configuration settings for formatting/parsing. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 7225, "children": []})

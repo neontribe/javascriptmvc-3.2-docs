@@ -1,0 +1,1 @@
+c({"name": "remove", "params": {"id": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "id"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Removes an item from the sets.</p>", "src": "./jquery/model/store/store.js", "line": 96, "children": []})

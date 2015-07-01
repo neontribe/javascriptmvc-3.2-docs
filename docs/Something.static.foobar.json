@@ -1,0 +1,1 @@
+c({"name": "Something.static.foobar", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Something.static"], "comment": "<p>holler</p>", "src": "./documentjs/test/something.js", "line": 62, "children": []})

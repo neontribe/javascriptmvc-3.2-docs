@@ -1,0 +1,1 @@
+c({"name": "_clearDate", "params": {"id": {"description": "", "type": "", "optional": false, "order": 0, "name": "id"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Erase the input field and hide the date picker. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6386, "children": []})

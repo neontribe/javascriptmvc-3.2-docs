@@ -1,0 +1,1 @@
+c({"name": "_autoSize", "params": {"inst": {"description": "", "type": "", "optional": false, "order": 0, "name": "inst"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Apply the maximum length for the date format. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 5723, "children": []})

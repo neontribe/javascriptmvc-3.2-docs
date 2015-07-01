@@ -1,0 +1,1 @@
+c({"name": "_getDate", "params": {"inst": {"description": "", "type": "", "optional": false, "order": 0, "name": "inst"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Retrieve the date(s) directly. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6877, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "findAllCached", "params": {"params": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "params"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>FindAll attempts to retrieve a list of model(s)\nonly from the cache.</p>", "src": "./jquery/model/store/store.js", "line": 514, "children": []})

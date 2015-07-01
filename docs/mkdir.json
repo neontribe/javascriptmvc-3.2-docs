@@ -1,0 +1,1 @@
+c({"name": "mkdir", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>For a given path, a given working directory, and file location, update the path so \nit points to the right location.</p>", "src": "./steal/rhino/file.js", "line": 166, "children": []})

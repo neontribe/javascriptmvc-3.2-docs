@@ -1,0 +1,1 @@
+c({"name": "_gotoToday", "params": {"id": {"description": "", "type": "", "optional": false, "order": 0, "name": "id"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Action for current link. </p>", "src": "./jquery/jqueryui/jqueryui.js", "line": 6342, "children": []})

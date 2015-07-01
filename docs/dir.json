@@ -1,0 +1,1 @@
+c({"name": "dir", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Returns everything before the last /</p>", "src": "./steal/rhino/file.js", "line": 60, "children": []})
